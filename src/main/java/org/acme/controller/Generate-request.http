@@ -1,0 +1,7 @@
+POST http://localhost:8080/categoria
+Content-Type: application/json
+
+{
+    "titulo": "Sapate",
+    "descricao": "sapatos xxx"
+}
